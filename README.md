@@ -58,6 +58,7 @@
 <a href="index.html" style="padding:10px 20px; background:#007bff; color:white; text-decoration:none; border-radius:5px;">
     หน้าแรก
 </a>
+<img src="images/หน้าแรก.png" alt="หน้าแรก" width="400" />
 
 <a href="about.html" style="padding:10px 20px; background:#28a745; color:white; text-decoration:none; border-radius:5px;">
     เกี่ยวกับเรา
