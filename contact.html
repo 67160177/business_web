@@ -12,13 +12,33 @@
 <hr />
 <h1>ติดต่อเรา</h1>
 <form>
-<label>ชื่อ:</label><br />
-<input type="text" name="name" required /><br /><br />
-
-
-<label>อีเมล:</label><br />
-<input type="email" name="email" required /><br /><br />
-
-
-<label>ข้อความ:</label><br />
-<textarea name="message" rows="5"></textarea><br />
+ <section id="contact">
+        <form action="/register" method="POST">
+          <fieldset>
+            <label for="fname">ชื่อ:</label>
+            <input type="text" id="fname" name="firstname" required />
+            <label for="lname">นามสกุล:</label>
+            <input type="text" id="lname" name="lastname" required />
+            <br />
+            <label for="email">อีเมล:</label>
+            <input type="email" id="email" name="email" required />
+            <label for="phone">เบอร์โทร:</label>
+            <input type="phone" id="phone" name="phone" required />
+            <br />
+            <label for="note">รายละเอียด:</label><br />
+            <textarea name="note" id="note" rows="5" cols="50"></textarea>
+          </fieldset>
+          <br />
+          <button type="submit">ส่งข้อมูล</button>
+          <button type="reset">ยกเลิก</button>
+        </form>
+      </section>
+      <hr />
+      <section>
+        <h2>ที่อยู่บริษัท</h2>
+        <img src="images/ที่อยู่.png" alt="" width="1200px">
+        <p>บริษัท FixTech Center ที่อยู่ของบริษัท 7WM8+G7F บางแสนสาย 1 ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130 </p>
+      </section>
+    </main>
+</body>
+</html>
