@@ -55,6 +55,16 @@
 - ทีม Security Analyst ที่ผ่านการรับรองสากล เช่น CEH, OSCP  
 
 ---
+<a href="index.html" style="padding:10px 20px; background:#007bff; color:white; text-decoration:none; border-radius:5px;">
+    หน้าแรก
+</a>
 
-<img src="images/หน้าแรก.png" width="200" />
-<figcaption>หน้าแรก</figcaption>
+<a href="about.html" style="padding:10px 20px; background:#28a745; color:white; text-decoration:none; border-radius:5px;">
+    เกี่ยวกับเรา
+</a>
+
+<a href="contact.html" style="padding:10px 20px; background:#dc3545; color:white; text-decoration:none; border-radius:5px;">
+    ติดต่อเรา
+</a>
+
+
