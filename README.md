@@ -58,15 +58,16 @@
 <a href="index.html" style="padding:10px 20px; background:#007bff; color:white; text-decoration:none; border-radius:5px;">
     หน้าแรก
 </a>
-<img src="images/หน้าแรก.png" alt="หน้าแรก" width="400" />
+<img src="images/หน้าแรก.png" width="400" />
 
 <a href="about.html" style="padding:10px 20px; background:#28a745; color:white; text-decoration:none; border-radius:5px;">
     เกี่ยวกับเรา
 </a>
-<img src="images/เกี่ยวกับเรา.png" alt="หน้าแรก" width="400" />
+<img src="images/เกี่ยวกับเรา.png" width="400" />
 <a href="contact.html" style="padding:10px 20px; background:#dc3545; color:white; text-decoration:none; border-radius:5px;">
     ติดต่อเรา
 </a>
+<img src="images/ติดต่อเรา.png" width="400" />
 
-
+<h2>จัดทำโดย กิตติพงษ์ สิมหล้า 67160177</h2>
 
