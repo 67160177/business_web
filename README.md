@@ -63,9 +63,10 @@
 <a href="about.html" style="padding:10px 20px; background:#28a745; color:white; text-decoration:none; border-radius:5px;">
     เกี่ยวกับเรา
 </a>
-
+<img src="images/เกี่ยวกับเรา.png" alt="หน้าแรก" width="400" />
 <a href="contact.html" style="padding:10px 20px; background:#dc3545; color:white; text-decoration:none; border-radius:5px;">
     ติดต่อเรา
 </a>
+
 
 
